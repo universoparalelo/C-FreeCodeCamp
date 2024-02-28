@@ -1,0 +1,14 @@
+C:\Users\celeste\Desktop\C#\cSharpProyect\bin\Debug\net8.0\cSharpProyect.exe
+C:\Users\celeste\Desktop\C#\cSharpProyect\bin\Debug\net8.0\cSharpProyect.deps.json
+C:\Users\celeste\Desktop\C#\cSharpProyect\bin\Debug\net8.0\cSharpProyect.runtimeconfig.json
+C:\Users\celeste\Desktop\C#\cSharpProyect\bin\Debug\net8.0\cSharpProyect.dll
+C:\Users\celeste\Desktop\C#\cSharpProyect\bin\Debug\net8.0\cSharpProyect.pdb
+C:\Users\celeste\Desktop\C#\cSharpProyect\obj\Debug\net8.0\cSharpProyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celeste\Desktop\C#\cSharpProyect\obj\Debug\net8.0\cSharpProyect.AssemblyInfoInputs.cache
+C:\Users\celeste\Desktop\C#\cSharpProyect\obj\Debug\net8.0\cSharpProyect.AssemblyInfo.cs
+C:\Users\celeste\Desktop\C#\cSharpProyect\obj\Debug\net8.0\cSharpProyect.csproj.CoreCompileInputs.cache
+C:\Users\celeste\Desktop\C#\cSharpProyect\obj\Debug\net8.0\cSharpProyect.dll
+C:\Users\celeste\Desktop\C#\cSharpProyect\obj\Debug\net8.0\refint\cSharpProyect.dll
+C:\Users\celeste\Desktop\C#\cSharpProyect\obj\Debug\net8.0\cSharpProyect.pdb
+C:\Users\celeste\Desktop\C#\cSharpProyect\obj\Debug\net8.0\cSharpProyect.genruntimeconfig.cache
+C:\Users\celeste\Desktop\C#\cSharpProyect\obj\Debug\net8.0\ref\cSharpProyect.dll
